@@ -32,7 +32,7 @@
     "freeport-promise": "^1.1.0",
     "mdns": "^2.4.0",
     "mocha": "^6.0.2",
-    "signalk-server": "^1.13.0"
+    "signalk-server": "^1.20.0"
   },
   "repository": {
     "type": "git",
